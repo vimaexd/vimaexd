@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm Stringy.
+
 [![Stringy's github stats](https://github-readme-stats.vercel.app/api?username=etstringy)](https://github.com/etstringy/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etstringy)](https://github.com/etstringy/)
 
 <!--
