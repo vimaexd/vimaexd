@@ -1,6 +1,6 @@
 ### Hey! 👋✨
 
-My name's Edward and I'm a 14 year old Programmer & musician.
+My name's Edward and I'm a 14 year old programmer & music producer.
 The main languages I use are **TypeScript/JavaScript** and **Python**, but sometimes I'll dip my toes into **C#** or **Java**.
 
 <table>
