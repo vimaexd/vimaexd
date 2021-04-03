@@ -10,10 +10,10 @@ The main languages I use are **TypeScript/JavaScript** and **Python**, but somet
 
 ### Socials
 
-[<img src="https://simpleicons.org/icons/twitter.svg" width=64>](https://twitter.com/etstringy)
-[<img src="https://simpleicons.org/icons/youtube.svg" width=64>](https://youtube.com/stringy)
-[<img src="https://simpleicons.org/icons/reddit.svg" width=64>](https://reddit.com/u/stringy)
-[<img src="https://simpleicons.org/icons/twitch.svg" width=64>](https://twitch.tv/etstringy)
-[<img src="https://simpleicons.org/icons/discord.svg" width=64>](https://discord.gg/A8A52G2)
+[<img src="https://simpleicons.org/icons/twitter.svg" width=32>](https://twitter.com/etstringy)
+[<img src="https://simpleicons.org/icons/youtube.svg" width=32>](https://youtube.com/stringy)
+[<img src="https://simpleicons.org/icons/reddit.svg" width=32>](https://reddit.com/u/stringy)
+[<img src="https://simpleicons.org/icons/twitch.svg" width=32>](https://twitch.tv/etstringy)
+[<img src="https://simpleicons.org/icons/discord.svg" width=32>](https://discord.gg/A8A52G2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=etstringy&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border)
