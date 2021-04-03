@@ -3,7 +3,14 @@
 My name's Edward and I'm a 14 year old Programmer & musician.
 The main languages I use are **TypeScript/JavaScript** and **Python**, but sometimes I'll dip my toes into **C#** or **Java**.
 
-[<img align="left" src="https://disq.me/assets/logo512.png" width=32>](https://disq.me) I'm mainly working on Disq right now, a screenshot storage and web utility service
+<table>
+  <tr>
+    <td align="center">
+      <img align="left" src="https://disq.me/assets/logo512.png" width=32> 
+      I'm mainly working on Disq right now, a screenshot storage and web utility service
+    </td>
+  </tr>
+ </table>
 
 - I love [Express](https://expressjs.com)
 - I use [Discord.JS](https://discord.js.org) and the [Discord API](https://discord.com/developers/docs) a lot
