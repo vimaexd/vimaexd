@@ -27,5 +27,5 @@ The main languages I use are **TypeScript/JavaScript** and **Python**, but somet
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=etstringy&show_icons=true&locale=en&layout=default&bg_color=131820&text_color=fff&title_color=fff&hide_border=true">
-  <img src="https://disq.me/hsCin.png" width=285>
+  <img src="https://disq.me/hsCin.png" height=285>
 </p>
