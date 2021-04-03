@@ -25,5 +25,4 @@ The main languages I use are **TypeScript/JavaScript** and **Python**, but somet
 [<img src="https://simpleicons.org/icons/twitch.svg" width=32 fill="#6812ca">](https://twitch.tv/etstringy)
 [<img src="https://simpleicons.org/icons/discord.svg" width=32 fill="#6812ca">](https://discord.gg/A8A52G2)
 
-![Stats Card](https://github-readme-stats.vercel.app/api?username=etstringy&show_icons=true&locale=en&bg_color=90,be50f1,41a7e2&text_color=fff&title_color=fff&hide_border&show_icons=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=etstringy&show_icons=true&locale=en&layout=default&bg_color=90,be50f1,41a7e2&text_color=fff&title_color=fff&hide_border)
