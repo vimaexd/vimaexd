@@ -11,12 +11,7 @@ The main languages I use are **TypeScript/JavaScript** and **Python**, but somet
 
 ### Socials
 
-<a href="https://twitter.com/etstringy" target="blank">
-  <img align="center" src="https://img.shields.io/static/v1?label=Twitter&message=etstringy&color=1da1f2&style=for-the-badge&logo=twitter"/>
-</a>
-
-<a href="https://www.youtube.com/c/stringy" target="blank">
-  <img align="center" src="https://img.shields.io/static/v1?label=YouTube&message=Stringy&color=ff0000&style=for-the-badge&logo=youtube" />
-</a>
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=etstringy&color=1da1f2&style=for-the-badge&logo=twitter)](https://twitter.com/etstringy)
+[![YouTube](https://img.shields.io/static/v1?label=YouTube&message=Stringy&color=ff0000&style=for-the-badge&logo=youtube)](https://www.youtube.com/stringy)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etstringy&show_icons=true&locale=en&layout=compact&theme=algolia" alt="etstringy" />
