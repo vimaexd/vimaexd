@@ -1,21 +1,16 @@
 ### Hey! 👋✨
 
-My name's Edward and I'm a 14 year old programmer & music producer.
+My name's Mae and I'm a programmer & music maker
 The main languages I use are **TypeScript/JavaScript** and **Python**, but sometimes I'll dip my toes into **C#** or **Java**.
-
-<!-- <table>
-  <tr>
-    <td align="center">
-      <img align="left" src="https://disq.me/assets/logo512.png" width=32> 
-      I'm mainly working on Disq right now, a screenshot storage and web utility service
-    </td>
-  </tr>
- </table> -->
 
 - I love [Express](https://expressjs.com)
 - I use [Discord.JS](https://discord.js.org) and the [Discord API](https://discord.com/developers/docs) a lot
 - Sometimes I use [Electron](https://www.electronjs.org)
 - I use [Visual Studio Code](https://code.visualstudio.com) mainly but sometimes I'll use [Jetbrains IDEs](https://www.jetbrains.com) like IntelliJ or PyCharm
+
+- I'm in the process of learning how to use Docker well
+- I'm currently hoping to learn Rust
+
 
 ### Socials
 
