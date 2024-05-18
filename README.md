@@ -1,4 +1,4 @@
-<img src="https://mae.wtf/assets/maewave.png" alt="mae waving" width="24px"/> <p style="font-family: monospace; font-size: 2rem;"></p>
+<img src="https://mae.wtf/assets/maewave.png" alt="mae waving" width="24px"/> <p style="font-family: monospace"></p>
 
 [https://mae.wtf](https://mae.wtf)
 
