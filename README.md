@@ -1,4 +1,4 @@
-i'm mae and i code things ![mae waving](https://mae.wtf/assets/maewave.png)
+i'm mae and i code things <img src="https://mae.wtf/assets/maewave.png" alt="mae waving" width="32px"/>
 
 (https://mae.wtf)[https://mae.wtf]
 
