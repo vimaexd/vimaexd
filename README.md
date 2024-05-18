@@ -1,4 +1,4 @@
-<img src="https://mae.wtf/assets/maewave.png" alt="mae waving" width="24px"/> i'm mae and i code things
+<img src="https://mae.wtf/assets/maewave.png" alt="mae waving" width="24px"/> <h1>i'm mae and i code things</h1>
 
 [https://mae.wtf](https://mae.wtf)
 
