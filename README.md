@@ -1,5 +1,4 @@
-### Hey! 👋✨
+i'm mae and i code things
+(https://mae.wtf)[https://mae.wtf]
 
-My name's Mae and I'm a 🏳️‍⚧️ programmer & music maker. The main languages I use are **TypeScript/JavaScript** and **Python**, but sometimes I'll dip my toes into **C#** or **Java**.
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=etstringy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimaexd)
